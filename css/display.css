@@ -1,0 +1,24 @@
+.footer{
+    background: #545b62;
+    color: #1b1e21;
+    size: landscape;
+    font-style: italic;
+}
+.innerfooter{
+    padding: 10px 12px;
+    background: #545b62;
+    color: #e2e3e5;
+}
+.copyright{
+background: #1b1e21;
+    color: #9fcdff;
+}
+.container{
+    background-color: #818182;
+}
+.containerA{
+    /*background-image: url("") ;*/
+    border-radius: 15px 12px;
+    font-style: italic;
+    font-family: "Berlin Sans FB";
+}
